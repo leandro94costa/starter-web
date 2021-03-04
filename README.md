@@ -2,7 +2,6 @@
 
 This is a simple website project for showing how to use Git and Github together. Adding a line for rebasing example, then more changes from myfeatures too.
 
-
 ## Introduction
 
 This example is to show different parts of the Git repository and various commands using a web project.
@@ -21,4 +20,4 @@ Please fork this repository and the issue Pull Requests for review.
 
 ## Copyright
 
-2021 Git training
+2021 Git training. All rights not reserved.

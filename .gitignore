@@ -1,3 +1,4 @@
 unwantedfile.ds
 ignoredfolder/
 *.log
+*.orig

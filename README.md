@@ -17,4 +17,8 @@ This is a simple web, deployment can be on any web server or even local file sys
 
 ## How to contribute
 
+Please fork this repository and the issue Pull Requests for review.
+
+## Copyright
+
 2021 Git training
